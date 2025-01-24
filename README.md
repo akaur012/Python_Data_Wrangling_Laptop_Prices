@@ -1,4 +1,4 @@
-**DATA WRANGLING with Laptop Prices**
+**Data Wrangling with Laptop Prices**
 <p>In this Python project, I practiced data-wrangling with laptop pricing data. The objectives of this project include:<p>
 
 <p>1. Evaluating the dataset for missing data.<p>
